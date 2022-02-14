@@ -1,0 +1,6 @@
+diabetes.csv
+Early stage diabetes risk prediction dataset from UCI. This dataset contains the sign and symptom data of newly diabetic or would be diabetic patients.
+
+Problem type: Binary classification
+
+Size: 17 features, 520 instances
